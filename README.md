@@ -17,6 +17,7 @@
 
 ## 포트폴리오 미리보기
 
+<img src="./images/portfolioImg.png" width="40%" height="30%" title="100px" alt="미리보기"></img>
 
 
 
