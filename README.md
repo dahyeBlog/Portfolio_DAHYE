@@ -1,6 +1,6 @@
 # PortFolio 
 
-##포트폴리오에 사용한 언어
+## 포트폴리오에 사용한 언어
 - html, css, javascript를 사용했습니다.
 
 ##프로젝트 기능
@@ -12,10 +12,10 @@
 - My Projects : 공부한 프로젝트 
 
 
-##포트폴리오 바로가기
+## 포트폴리오 바로가기
 - 주소 : https://dahyeblog.github.io/Portfolio_DAHYE/
 
-##포트폴리오 미리보기
+## 포트폴리오 미리보기
 
 
 참고한 css 자료
