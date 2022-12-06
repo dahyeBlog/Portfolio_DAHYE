@@ -76,6 +76,20 @@ padding: 10px;
   border-radius: 10px;
 }
 
+.links-icons{
+
+  font-size: 2rem;
+  margin-bottom: 1rem; 
+}
+
+.links-icons a i {
+  color: #243264;
+}
+
+.links-icons a:active i {
+  color: #243264;
+}
+
 @media screen and (max-width:900px) {
   h1{
   font-size: 30px;
